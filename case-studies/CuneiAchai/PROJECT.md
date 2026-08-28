@@ -76,7 +76,7 @@ The exact schema remains subject to audit and refinement.
 
 ## 5. Human and AI Roles
 
-The dataset has been created and curated by **Babak Varjamand**.
+The dataset has been created and curated by **Babak Rasti M.**.
 
 The current development history indicates a **human-controlled, AI-assisted workflow**.
 
