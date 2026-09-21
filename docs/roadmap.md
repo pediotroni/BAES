@@ -2,8 +2,8 @@
 
 **Document Status:** Working Record
 **Project Status:** Under Development
-**Roadmap Version:** 0.1
-**Last Updated:** 2026-08-19
+**Roadmap Version:** 0.2
+**Last Updated:** 2026-09-21
 
 ---
 
@@ -154,7 +154,9 @@ Establish the foundational identity, purpose, scope, and engineering principles 
 
 ## Current State
 
-This phase has produced substantial foundational material and is transitioning into continued conceptual and ontological development.
+The Foundation Baseline v1.0 has reached a controlled frozen state. Foundation Models have been reviewed. Subsequent ontology research did not justify promotion of a new Foundation-level concept.
+
+Phase 0 is therefore treated as substantially completed for the current development baseline.
 
 ## Exit Criteria
 
@@ -204,16 +206,23 @@ Develop a coherent conceptual model of the entities, relationships, states, auth
 * Distinguish conceptual status from evidence validity.
 * Record unresolved ontology questions.
 
+## Current Research Position
+
+The current ontology research program has reached a controlled stopping condition for the investigated candidate set. No candidate has demonstrated sufficient independent necessity for Foundation admission.
+
+This does **not** mean that the ontology is declared universally complete. It means that unsupported completion is not justified.
+
+Further ontology investigation is therefore evidence-triggered and may be reopened if new observations, requirements, or counterevidence justify it.
+
 ## Exit Criteria
 
-Phase 1 may be considered complete when:
+Phase 1 should be considered sufficiently complete for progression when:
 
-* Core concepts have explicit definitions.
-* Core relationships have been documented.
-* Major terminology ambiguities have been resolved or explicitly recorded.
-* Foundational ontology decisions are traceable.
-* Remaining ontology gaps are understood.
-* The conceptual model is sufficiently stable to support normative specification.
+* Core established concepts are stable enough for higher-layer modeling.
+* Remaining ontology gaps are explicitly understood.
+* Candidate status is traceable.
+* No unresolved Foundation-level necessity is being hidden by terminology or implementation convenience.
+* The conceptual model can support continued specification and governance work without unsupported ontology expansion.
 
 ---
 
@@ -474,20 +483,19 @@ Checking documentation consistency, logical coherence, and specification integri
 
 As of the current roadmap version, the immediate priority is:
 
-> **Establishing a rigorous and traceable foundation for BAES before formalizing the complete normative specification.**
+> **Developing the Governance Model of BAES itself while preserving the Frozen Foundation and the evidence boundary established by ontology research.**
 
 The current work therefore prioritizes:
 
-1. Repository architecture.
-2. Foundation consolidation.
-3. Ontology discovery.
-4. Terminology.
-5. Authority and governance concepts.
-6. Evidence modeling.
-7. Roadmap refinement.
-8. Identification of unresolved questions.
+1. Governance model development.
+2. Controlled evolution and decision authority.
+3. Evidence and validation modeling.
+4. Specification preparation.
+5. Public / restricted boundary review.
+6. External validation preparation.
+7. Traceability and terminology consistency.
 
-Public dissemination is intentionally secondary to foundational development at this stage.
+The ontology remains intentionally incomplete and is not to be expanded without new evidence.
 
 ---
 
@@ -498,11 +506,11 @@ Public dissemination is planned only after the project reaches an appropriate le
 The intended future sequence is:
 
 ```text
-Internal Development
+Controlled Internal Development
         ↓
-Public Engineering Record
+Reviewed Public Engineering Record
         ↓
-Mature Documentation
+Mature Public Documentation
         ↓
 Research / Evidence
         ↓
