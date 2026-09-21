@@ -58,7 +58,7 @@ BAES is being developed to provide an engineering structure for these concerns.
 
 BAES is currently **under active development**.
 
-The project has established a foundational body of concepts and principles and is currently progressing through foundation consolidation, ontology discovery, conceptual formalization, and development of the supporting evidence and governance models.
+**Foundation Baseline v1.0 is frozen.** Foundation Models have been reviewed, and the current ontology research has not justified promotion of a new Foundation-level ontology concept. Governance Model development remains active.
 
 BAES has **not yet been released as a finalized normative standard**.
 
@@ -104,8 +104,9 @@ BAES development currently emphasizes:
 * Evidence-Aware Development
 * Independent Reviewability
 * Controlled Evolution
+* Governance of BAES itself
 
-These concepts remain subject to continued formalization, research, and validation.
+These directions remain subject to continued formalization, research, and validation.
 
 ---
 
@@ -258,7 +259,7 @@ Licensing for the BAES standard and its associated materials is currently under 
 
 **BAES — Under Development**
 
-**Current focus:** Foundation, ontology discovery, governance, evidence, and specification development.
+**Current focus:** Governance model development, evidence, validation, specification preparation, and controlled evolution.
 
 ---
 
