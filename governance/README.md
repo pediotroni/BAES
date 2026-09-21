@@ -100,6 +100,12 @@ AI participation does not automatically grant:
 AI-generated material remains subject to the applicable review and
 decision process.
 
+**Boundary note:** The authority terminology used in this public governance
+overview describes governance concerns and distinctions under development.
+It does not, by itself, establish an independent Foundation-level
+Authority or Governance ontology. The current research state preserves
+that distinction.
+
 ---
 
 ## 5. Authority Model
