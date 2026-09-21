@@ -3,7 +3,7 @@
 **Document Status:** Working Record
 **Project Status:** Under Development
 **Standard Status:** Not Yet Released
-**Last Updated:** 2026-08-19
+**Last Updated:** 2026-09-21
 
 ---
 
@@ -38,13 +38,19 @@ BAES is intended to remain:
 
 ## 3. Current Development State
 
-BAES is currently in an active foundational development stage.
+BAES is currently in active development, with the initial Foundation consolidation and the current ontology research work having reached defined closure points.
 
-The project has progressed beyond an initial conceptual idea and has established a growing body of documented foundations, principles, discovery records, and governance concepts.
+The current controlled state is:
 
-However, BAES is **not yet a finalized or formally released standard**.
+* **Foundation Baseline v1.0 — Frozen**
+* **Foundation Models — Reviewed**
+* **Current ontology research — No candidate promoted to Foundation**
+* **Authority / Governance ontology branch — Closed at the current evidentiary threshold**
+* **Governance Model for BAES itself — Remains under development**
+* **Normative specification — Not yet finalized**
+* **Formal public release — Not yet made**
 
-The current work is focused on establishing a rigorous conceptual, ontological, governance, and evidentiary foundation before defining a mature normative specification.
+The project is therefore moving forward without introducing unsupported foundational concepts merely to complete the ontology.
 
 ---
 
@@ -118,21 +124,21 @@ The role and formal treatment of Engineering Inquiry remain under development.
 
 ---
 
-### 4.6 Ontology Discovery
+### 4.6 Ontology Research
 
-BAES has entered an explicit ontology-discovery process.
+BAES has conducted a controlled ontology research program.
 
-The purpose of this work is to identify and define the fundamental entities, relationships, states, authorities, evidence types, actions, decisions, and other constructs required for a coherent Human–AI engineering model.
+The current research result is that no investigated candidate has demonstrated sufficient independent necessity to justify promotion to the Frozen Foundation. The ontology is therefore intentionally incomplete rather than being completed by unsupported conceptual commitments.
 
-Ontology discovery is not considered complete.
+Further ontology work remains evidence-triggered rather than open-ended.
 
 ---
 
-### 4.7 MOU / Datum / Coordinate Discovery
+### 4.7 Conceptual and Evidence Research
 
-The project has investigated the relationship between **MOU, Datum, and Coordinate** concepts as part of establishing a rigorous reference framework for Human–AI collaboration.
+BAES continues to maintain research records covering conceptual distinctions, evidence, cross-domain validation, counterexamples, and governance-related questions.
 
-This work remains part of the foundational conceptual development and is not yet treated as a finalized normative model.
+Research findings remain distinct from normative requirements. A research result does not automatically modify the Foundation or become a public normative rule.
 
 ---
 
@@ -166,12 +172,11 @@ BAES should currently be considered a **developmental engineering standard proje
 
 At the current stage:
 
-* The conceptual foundation is under active development.
-* Core principles have been identified and are being refined.
-* The ontology is under discovery.
-* Governance concepts are under development.
-* Evidence requirements are being clarified.
-* Validation methodology has not yet been fully finalized.
+* The Foundation Baseline v1.0 is frozen.
+* Foundation Models have been reviewed.
+* The current ontology research set has produced no Foundation-level promotion.
+* Governance concepts and the Governance Model remain under development.
+* Evidence and validation requirements continue to be developed.
 * The normative specification is not yet complete.
 * External review has not yet been completed.
 * No formal conformance or certification regime has yet been established.
@@ -183,17 +188,16 @@ At the current stage:
 The following areas require additional work before BAES can be considered a mature public specification:
 
 1. Complete scope and terminology.
-2. Formal ontology.
+2. Governance model.
 3. Normative requirements.
 4. Conformance model.
 5. Evidence model.
-6. Governance model.
-7. Change-management model.
-8. Validation methodology.
-9. Independent review mechanisms.
-10. Case-study methodology.
-11. Release criteria.
-12. Long-term maintenance and evolution model.
+6. Validation methodology.
+7. Independent review mechanisms.
+8. Case-study methodology.
+9. Release criteria.
+10. Long-term maintenance and evolution model.
+11. External review and public validation.
 
 These items should not be interpreted as failures or deficiencies. They represent the remaining engineering work required to move from a developing standard to a mature and reviewable specification.
 
@@ -250,18 +254,15 @@ The repository structure and documentation model will evolve as BAES itself matu
 
 The immediate priorities are:
 
-1. Establish the BAES repository architecture.
-2. Record the current state of the project.
-3. Define the development roadmap.
-4. Consolidate existing foundational decisions and records.
-5. Continue ontology discovery.
-6. Formalize terminology and conceptual relationships.
-7. Develop the governance model.
-8. Define the evidence and validation model.
-9. Establish the path toward a normative specification.
-10. Define criteria for future public releases.
+1. Develop the Governance Model for BAES itself.
+2. Maintain the Frozen Foundation and reviewed Foundation Models.
+3. Preserve the current ontology boundary and reopen it only when new evidence justifies doing so.
+4. Develop the evidence and validation model.
+5. Establish the path toward a normative specification.
+6. Prepare the public/restricted boundary for controlled external validation.
+7. Define criteria for future public releases.
 
-Public dissemination, professional outreach, and archival publication are intentionally deferred until the foundational documentation and development path are sufficiently mature.
+Public dissemination may proceed in controlled form as the Public Engineering Record matures, while formal normative release remains deferred until its required evidence, review, and release criteria are satisfied.
 
 ---
 
